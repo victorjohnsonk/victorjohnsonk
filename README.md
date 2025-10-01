@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Victor Johnson. I am a Data Scientist with over seven years of experience using analytics, machine learning, and business intelligence to solve complex problems and support strategic decisions. Known for translating large and varied datasets into clear, actionable insights that help leaders respond quickly to business challenges. Experienced in guiding small teams, developing scalable data platforms, and working closely with senior stakeholders to ensure data initiatives meet organisational priorities.
+
+
+[![pages-build-deployment](https://github.com/victorjohnsonk/victorjohnson.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/victorjohnsonk/victorjohnson.github.io/actions/workflows/pages/pages-build-deployment)
