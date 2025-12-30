@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Victor Johnson. I am a Data Scientist with over seven years of experience using analytics, machine learning, and business intelligence to solve complex problems and support strategic decisions. Known for translating large and varied datasets into clear, actionable insights that help leaders respond quickly to business challenges. Experienced in guiding small teams, developing scalable data platforms, and working closely with senior stakeholders to ensure data initiatives meet organisational priorities.
+I am Victor Johnson. I am a Data Scientist with over seven years of experience building production LLM and GenAI systems, including RAG, intelligent search, and LLM-powered applications in Azure. I own LLM systems end-to-end: ingestion, embeddings, retrieval, prompt orchestration, evaluation, deployment, and monitoring, with a focus on reliability, performance, and cost in real products. Core expertise: LLMs, RAG, vector search, LLM evaluation, Python, Azure OpenAI, Spark, MLOps.
  
 
 [![pages-build-deployment](https://github.com/victorjohnsonk/victorjohnson.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/victorjohnsonk/victorjohnson.github.io/actions/workflows/pages/pages-build-deployment)
