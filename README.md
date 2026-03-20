@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Data Scientist with 7+ years in ML/data and 2+ years specializing in production LLM/GenAI systems (AI Engineering), including LLM agents, RAG, intelligent search, and LLM-powered applications in Azure. I own agentic LLM systems end-to-end: ingestion, embeddings, retrieval, prompt orchestration, evaluation, deployment, and monitoring, with a focus on reliability, performance, and cost in real products. Core: LLMs, LLM agents, RAG, vector search, LLM evaluation, Python, Azure OpenAI, Spark, MLOps.
+Data Scientist with 7+ years in ML/data and 2+ years specializing in production LLM/GenAI systems (AI Engineering), including LLM agents, RAG, intelligent search, and LLM-powered applications in Azure. I own agentic LLM systems end-to-end: ingestion, embeddings, retrieval, prompt orchestration, evaluation, deployment, and monitoring, with a focus on reliability, performance, and cost in real products. Core: LLMs, LLM agents, RAG, vector search, LLM evaluation, Python, Azure OpenAI, LangGraph, LangChain, pySpark, MLOps.
 
 [Visit My Website](https://victorjohnson.online/utm_source=github_bio)
  
