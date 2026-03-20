@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Victor Johnson. I am a Data Scientist with over seven years of experience building production grade ML and GenAI systems, including RAG, intelligent search, and LLM-powered applications in Azure. I own LLM systems end-to-end: ingestion, embeddings, retrieval, prompt orchestration, evaluation, deployment, and monitoring, with a focus on reliability, performance, and cost in real products. Core expertise: LLMs, RAG, vector search, LLM evaluation, Python, Azure OpenAI, Spark, MLOps.
+Data Scientist with 7+ years in ML/data and 2+ years specializing in production LLM/GenAI systems (AI Engineering), including LLM agents, RAG, intelligent search, and LLM-powered applications in Azure. I own agentic LLM systems end-to-end: ingestion, embeddings, retrieval, prompt orchestration, evaluation, deployment, and monitoring, with a focus on reliability, performance, and cost in real products. Core: LLMs, LLM agents, RAG, vector search, LLM evaluation, Python, Azure OpenAI, Spark, MLOps.
  
 
 [![pages-build-deployment](https://github.com/victorjohnsonk/victorjohnson.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/victorjohnsonk/victorjohnson.github.io/actions/workflows/pages/pages-build-deployment)
